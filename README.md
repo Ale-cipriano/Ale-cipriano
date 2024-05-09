@@ -23,4 +23,4 @@
 
 ### 🚀 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-cipriano&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-cipriano&layout=compact&theme=dracula)
