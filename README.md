@@ -2,8 +2,8 @@
 
 🏢 **Atuação Profissional**
 - ✒ Designer Gráfico e Animação 🎬.
-- 📚 Estudante de Sistemas de Informação na Estácio.
-- 💻 Especializando em backend e mobile. 📱
+- 📚 Graduando em Sistemas de Informação na Estácio.
+- 💻 Interesses: Backend, Machine Learning e Mobile. 📱
 
 ### 📊 Estatísticas no GitHub
 
