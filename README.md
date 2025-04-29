@@ -1,7 +1,7 @@
 ### Olá, eu sou Alessandro Cipriano 👍
 
 🏢 **Atuação Profissional**
-- ✒ Designer Gráfico e Animação 🎬.
+- ✒ Desenvolvimento de App, Graphic & Motion, Design 🎬.
 - 📚 Graduando em Sistemas de Informação na Estácio.
 - 💻 Interesses: Full-Stack e Mobile. 📱
 
