@@ -3,7 +3,7 @@
 🏢 **Atuação Profissional**
 - ✒ Desenvolvimento de App, Graphic & Motion, Design 🎬.
 - 📚 Graduando em Sistemas de Informação na Estácio.
-- 💻 Interesses: Full-Stack e Mobile. 📱
+- 💻 Interesses: Developement Web & Mobile. 📱
 
 ### 📊 Estatísticas no GitHub
 
